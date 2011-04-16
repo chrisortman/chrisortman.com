@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chrisortman.com", "chrisortman.com\chrisortman.com.csproj", "{0C006F48-6941-4D7D-B239-275C56378694}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "WindowsAzureProject1", "WindowsAzureProject1\WindowsAzureProject1.ccproj", "{FABC93E6-70BA-4BA0-A8B3-71F17B7BCA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C006F48-6941-4D7D-B239-275C56378694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C006F48-6941-4D7D-B239-275C56378694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C006F48-6941-4D7D-B239-275C56378694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C006F48-6941-4D7D-B239-275C56378694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABC93E6-70BA-4BA0-A8B3-71F17B7BCA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABC93E6-70BA-4BA0-A8B3-71F17B7BCA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABC93E6-70BA-4BA0-A8B3-71F17B7BCA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABC93E6-70BA-4BA0-A8B3-71F17B7BCA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
